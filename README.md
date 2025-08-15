@@ -1,3 +1,4 @@
+https://huggingface.co/Thegame1161/t5_large_summarization
 # Fine-Tuning T5 for Dialogue Summarization 💬
 
 This repository contains a complete, end-to-end project for fine-tuning a T5 (Text-to-Text Transfer Transformer) model on the `samsum` dataset to summarize dialogues and conversations. The entire workflow is built using the Hugging Face ecosystem, demonstrating advanced techniques for training large sequence-to-sequence models efficiently.
